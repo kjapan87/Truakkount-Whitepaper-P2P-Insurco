@@ -128,6 +128,127 @@ Platform Administrator can be thought of as the Platform’s CEO and its respons
 P2P DeFi Group Insurance & Asset Management
 
 
+# Appendix (Source, References, FYI, Misc.)
+
+## Learnings from the Case Study of Nexus Mutual
+Home Page: [Nexus Mutual | A decentralised alternative to insurance](https://nexusmutual.io/)
+<br> Whitepaper: [nmx_white_paperv2_3.pdf (nexusmutual.io)](https://nexusmutual.io/assets/docs/nmx_white_paperv2_3.pdf)
+
+Main Issues identified by Nexus Mutual
+* Problem of P2P Type Arrangement → Pool is not diverse enough to gain Economies of Scale.
+* Problem of Traditional Insurance Arrangement → Doesn’t work unless heavily regulated.
+* Cost Issue of Traditional Insurance Arrangement → 35% ANP is lost as Operational Expense.
+
+Claims Assessment in a Oracle based system (single point of truth) has the following problem:-
+* Strict Trigger, no payout even if the loss occurred but Trigger not satisfied.
+* Failure of Oracle based decision making process.
+* Not enough historic data to judge effectively.
+* Claims Assessment in a P2P based system (crowd judged) has the following problem:-
+* Risk of Fraud High (assessor-indemnee nexus).
+* Low incentive for the crowd to flag fraudulent reporting.
+
+Main Solutions identified by Nexus Mutual
+* Nexus Mutual aims to reduce the 35% Operational cost to 18%.
+* Nexus Mutual aims to create a Token (Equity) and distribute within its ecosystem.
+
+De-Risking a P2P based claim system (Solution to main issues)
+* Assessor must have a significant stake in the success of the overall system & high penalty for lying. 
+* Knowledgeable experts added in the system to manage the risk (like an in-group underwriter).
+* Knowledgeable expert to earn a commission structure based on work done only.
+* Limiting the single claim payout as max percentage of the total Pool Amount.
+
+Scheme to incentivize a P2P system
+* Fees to “Knowledgeable expert” on successful Consensus Polling (Simple format).
+* “Knowledgeable experts” can vote in contrast to the group's opinion.
+* If no Consensus is reached then the “Knowledgeable expert” will get a reduced fee.
+* Once under the claim process, members can’t decide on another claim process.
+
+Target Audience of Nexus P2P
+* B2B sales to a new startup with an IT base.
+* B2B sales to an AMCo. to provide confidence to investors.
+* B2B sales to a Digital Wallet Co. to provide confidence to its own customers.
+* B2C retail sales to customers who want to learn before taking the plunge.
+
+
+**Distribution Structure  in P2P System**
+* Distribution of a P2P product is done with main focus on Community engagement, & promotion to early adapters. 
+* Distribution challenges in a P2P system includes, customers expecting Indemnity based products instead of Lump-sum amount as currently common to do. 
+* Another challenge is providing an attractive commission structure to the P2P Co.’s brokers.
+
+
+**Developing a Network Effect in a P2P system is done by following method:-**
+* Establishing a network of “Knowledgeable experts”.
+* Scale Rapidly
+* Continuous improvement of System UI (including functionality).
+* Provide a vested interest to all participants in the P2P network.
+
+
+## To-Do Task in Truakkount gathered from Nexus Mutual
+* Must Find a Way to Increase Economies of Scale
+* Triggering Criteria should be explicitly quantifiable and must be fair.
+* Oracle based decision making should be fail-proof.
+* Historic Data Not Available but required for better decision making at Claim step
+* Assessor-Claimant Nexus Fraud possible
+* Low Incentive for P2P group to Flag Fraudulent reporting.
+* Customer Expecting Indemnity based payout, instead of Lump-Sum
+* Attractive Commision structure for P2P System brokers.
+* Finding the right Target market to sell.
+
+Request to Readers
+For Feedback or Connection
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
